@@ -1,0 +1,114 @@
+[
+	{
+		"name": "The Great Gatsby",
+		"price": 10.99,
+		"id": "12345",
+		"image": "../images/great_gatsby.webp",
+		"description": "The story of the mysterious Jay Gatsby and his passion for the beautiful Daisy Buchanan, set against the backdrop of the roaring twenties and the jazz age."
+	},
+	{
+		"name": "To Kill a Mockingbird",
+		"price": 9.99,
+		"id": "23456",
+		"image": "../images/mockingbird.jpeg",
+		"description": "The story of Scout Finch, her brother Jem, and their father Atticus, a lawyer who defends a black man accused of raping a white woman in the Deep South of the 1930s."
+	},
+	{
+		"name": "1984",
+		"price": 12.99,
+		"id": "34567",
+		"image": "../images/1984.webp",
+		"description": "A dystopian novel set in a totalitarian society where the government constantly monitors and controls every aspect of its citizens' lives."
+	},
+	{
+		"name": "Pride and Prejudice",
+		"price": 8.99,
+		"id": "45678",
+		"image": "../images/prejudice.webp",
+		"description": "The classic romantic comedy of manners that follows the courtship and marriage of Elizabeth Bennet and Mr. Darcy, two strong-willed individuals with very different personalities."
+	},
+	{
+		"name": "The Catcher in the Rye",
+		"price": 7.99,
+		"id": "56789",
+		"image": "../images/catcher.jpeg",
+		"description": "A story that follows the emotional journey of a teenage boy named Holden Caulfield, who is expelled from his prep school and wanders the streets of New York City."
+	},
+	{
+		"name": "Animal Farm",
+		"price": 6.99,
+		"id": "67890",
+		"image": "../images/farm.webp",
+		"description": "An allegorical tale that tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal and free."
+	},
+	{
+		"name": "Lord of the Flies",
+		"price": 8.99,
+		"id": "78901",
+		"image": "../images/lord_flies.webp",
+		"description": "The story of a group of British schoolboys who get stranded on a deserted island and must learn to survive without the help of adults. The novel explores the darkness of human nature and the savagery that can arise in the absence of social norms."
+	},
+	{
+		"name": "The Hobbit",
+		"price": 11.99,
+		"id": "89012",
+		"image": "../images/hobbit.webp",
+		"description": "A fantasy novel that tells the story of a hobbit named Bilbo Baggins, who embarks on an adventure with a group of dwarves to reclaim their stolen treasure from the dragon Smaug."
+	},
+	{
+		"name": "The Lord of the Rings",
+		"price": 25.99,
+		"id": "90123",
+		"image": "../images/rings.webp",
+		"description": "A high fantasy epic by J.R.R. Tolkien that follows hobbit Frodo Baggins as he sets out to destroy the One Ring and save Middle-earth from the dark lord Sauron."
+	},
+	{
+		"name": "The Hitchhiker's Guide to the Galaxy",
+		"price": 9.99,
+		"id": "01234",
+		"image": "../images/hitchhiker.jpeg",
+		"description": "A comedic science fiction novel by Douglas Adams that follows the misadventures of an unwitting human and his alien friend as they travel through space."
+	},
+	{
+		"name": "Brave New World",
+		"price": 13.99,
+		"id": "23456",
+		"image": "../images/brave_new_world.webp",
+		"description": "A dystopian novel by Aldous Huxley that explores a world where people are genetically engineered and conditioned to conform to a rigid social hierarchy."
+	},
+	{
+		"name": "Fahrenheit 451",
+		"price": 10.99,
+		"id": "34567",
+		"image": "../images/fahrenheit.webp",
+		"description": "A dystopian novel by Ray Bradbury that imagines a future where books are banned and 'firemen' burn any that are found."
+	},
+	{
+		"name": "The Picture of Dorian Gray",
+		"price": 7.99,
+		"id": "45678",
+		"image": "../images/dorian.webp",
+		"description": "A Gothic novel by Oscar Wilde that tells the story of a man who sells his soul in exchange for eternal youth and beauty."
+	},
+	{
+		"name": "One Hundred Years of Solitude",
+		"price": 12.99,
+		"id": "56789",
+		"image": "../images/solitude.webp",
+		"description": "A magic realist novel by Gabriel García Márquez that chronicles the lives of seven generations of the Buendía family in the fictional town of Macondo."
+	},
+	{
+		"name": "The Bell Jar",
+		"price": 8.99,
+		"id": "67890",
+		"image": "../images/bell_jar.jpeg",
+		"description": "A semi-autobiographical novel by Sylvia Plath that explores the mental breakdown of a young woman and her struggles with identity and societal expectations."
+	},
+	{
+		"name": "The Nightingale",
+		"price": 16.99,
+		"id": "67890",
+		"image": "../images/nightingale.jpeg",
+		"description": "A historical fiction novel by Kristin Hannah that follows two sisters in Nazi-occupied France during World War II as they fight to survive and resist the German occupation."
+	}
+]

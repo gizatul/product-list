@@ -1,0 +1,43 @@
+{
+	"name": "new-gatsby",
+	"version": "1.0.0",
+	"private": true,
+	"description": "new-gatsby",
+	"author": "Aidar Gizatullin",
+	"keywords": [
+		"gatsby"
+	],
+	"scripts": {
+		"develop": "gatsby develop",
+		"start": "gatsby develop",
+		"build": "gatsby build",
+		"serve": "gatsby serve",
+		"clean": "gatsby clean",
+		"typecheck": "tsc --noEmit"
+	},
+	"dependencies": {
+		"@emotion/react": "^11.10.8",
+		"@emotion/styled": "^11.10.8",
+		"@mui/icons-material": "^5.11.16",
+		"@mui/material": "^5.12.2",
+		"babel-plugin-styled-components": "^2.1.1",
+		"gatsby": "^5.9.0",
+		"gatsby-plugin-image": "^3.9.0",
+		"gatsby-plugin-sharp": "^5.9.0",
+		"gatsby-plugin-styled-components": "^6.9.0",
+		"gatsby-source-filesystem": "^5.9.0",
+		"gatsby-transformer-json": "^5.9.0",
+		"gatsby-transformer-sharp": "^5.9.0",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"styled-components": "^5.3.10"
+	},
+	"devDependencies": {
+		"@types/node": "^18.15.13",
+		"@types/react": "^18.0.38",
+		"@types/react-dom": "^18.0.11",
+		"@types/styled-components": "^5.1.26",
+		"miragejs": "^0.1.47",
+		"typescript": "^5.0.4"
+	}
+}
