@@ -37,7 +37,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ data }) => {
 			<GlobalStyle />
 			<ResponsiveAppBar />
 			<Container sx={{ mt: '4rem' }}>
-				<Grid spacing={4} container direction="row" style={{ textAlign: 'center' }}>
+				<Grid spacing={4} container direction="row" align="center">
 					{products.map(({ id, name, price, image }) => (
 						<Grid key={id} item xs={12} sm={6} lg={3}>
 							<CardActionArea tabIndex={-1}>
