@@ -43,10 +43,8 @@ const SinglePage: React.FC<IndexPageProps> = ({ data }) => {
 						<Typography style={{ marginTop: 20 }} variant="body1" color="text.secondary">
 							${price}
 						</Typography>
-						<Button style={{ marginTop: 60 }} size="small" color="primary">
-							<MaterialLink component={GatsbyLink} to="/" underline="none">
-								Go home
-							</MaterialLink>
+						<Button component={GatsbyLink} to="/" style={{ marginTop: 60 }} size="small" color="primary">
+							Go home
 						</Button>
 					</Grid>
 				</Grid>
