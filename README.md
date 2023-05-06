@@ -24,7 +24,8 @@
 3.  **Install the required dependencies**
 
     ```shell
-    npm i
+    cd product-list
+    npm install
     ```
 
 4.  **Once the installation is complete, start the development server by running the following command:**
